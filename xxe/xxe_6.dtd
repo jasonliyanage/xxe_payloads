@@ -1,0 +1,2 @@
+<!ENTITY % p1 SYSTEM "file:///WINDOWS/system32/drivers/etc/hosts">
+%p2;
